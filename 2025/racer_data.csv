@@ -1,0 +1,22 @@
+driver_number,first_name,last_name,full_name,name_acronym,team_name,status
+10,Pierre,Gasly,Pierre GASLY,GAS,Alpine,A
+7,Jack,Doohan,Jack DOOHAN,DOO,Alpine,NA
+14,Fernando,Alonso,Fernando ALONSO,ALO,Aston Martin,A
+18,Lance,Stroll,Lance STROLL,STR,Aston Martin,A
+16,Charles,Leclerc,Charles LECLERC,LEC,Ferrari,A
+44,Lewis,Hamilton,Lewis HAMILTON,HAM,Ferrari,A
+31,Esteban,Ocon,Esteban OCON,OCO,Haas F1 Team,A
+87,Oliver,Bearman,Oliver BEARMAN,BEA,Haas F1 Team,A
+27,Nico,Hulkenberg,Nico HULKENBERG,HUL,Kick Sauber,A
+5,Gabriel,Bortoleto,Gabriel BORTOLETO,BOR,Kick Sauber,A
+4,Lando,Norris,Lando NORRIS,NOR,McLaren,A
+81,Oscar,Piastri,Oscar PIASTRI,PIA,McLaren,A
+63,George,Russell,George RUSSELL,RUS,Mercedes,A
+12,Andrea Kimi ,Antonelli,Andrea Kimi ANTONELLI,ANT,Mercedes,A
+22,Yuki,Tsunoda,Yuki TSUNODA,TSU,Red Bull Racing,A
+6,Isack,Hadjar,Isack HADJAR,HAD,RB,A
+1,Max,Verstappen,Max VERSTAPPEN,VER,Red Bull Racing,A
+30,Liam,Lawson,Liam LAWSON,LAW,RB,A
+55,Carlos,Sainz,Carlos SAINZ,SAI,Williams,A
+23,Alexander,Albon,Alexander ALBON,ALB,Williams,A
+43,Franco,Colapinto,Franco COLAPINTO,COL,Alpine,A
